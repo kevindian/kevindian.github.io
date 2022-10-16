@@ -37,8 +37,8 @@ plugins:
 
 
 header_pages:
-  - contact.md
-  - about.md
+  - contact.markdown
+  - about.markdown
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
