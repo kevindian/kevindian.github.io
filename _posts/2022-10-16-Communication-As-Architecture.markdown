@@ -5,4 +5,4 @@ date: 2022-10-16 20:07:00
 category: architecture
 ---
 
-## Communication-As-Architecture
+# Communication-As-Architecture
